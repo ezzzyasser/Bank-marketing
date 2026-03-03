@@ -34,6 +34,4 @@ Direct marketing campaigns are costly and time-consuming. This project demonstra
 
 The models were trained and tested on the `bank-additional-full.csv` dataset. The **SVM** model achieved a strong baseline accuracy of ~86%, with the project focusing on balancing precision and recall to ensure the bank doesn't miss potential customers.
 
-**Author**: Ezz Yasser (206879)
 
-**Next Step**: Would you like me to add a "How to Run" section with specific `pip install` commands?
